@@ -1,0 +1,12 @@
+.item-list strong {
+  color: #539bf5;
+  font-family: "Rubik Doodle Shadow";
+  font-size: 24px;
+}
+
+.item-list p {
+  color: #fff;
+  font-size: 12;
+  margin: 20px 0;
+  font-family: sans-serif;
+}

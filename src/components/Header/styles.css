@@ -1,0 +1,14 @@
+header {
+  display: grid;
+  place-items: center;
+  height: 52px;
+  width: 100%;
+  background-color: #2d333b;
+}
+
+h1 {
+  color: #fff;
+  font-size: 34px;
+  font-family: "Rubik Doodle Shadow";
+  text-transform: uppercase;
+}

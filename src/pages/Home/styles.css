@@ -1,0 +1,96 @@
+.conteudo {
+  position: relative;
+  display: grid;
+  place-items: center;
+  align-items: start;
+  justify-content: center;
+  color: #fff;
+  margin-top: 50px;
+}
+
+input {
+  border: 1px solid #999999;
+  border-radius: 22px;
+  min-width: 550px;
+  margin-right: 12px;
+  background: transparent;
+  font-size: 18px;
+  padding: 10px;
+  color: #fff;
+}
+
+h4 {
+  color: #fff;
+  font-size: 22px;
+  font-family: "Rubik Doodle Shadow";
+  text-transform: uppercase;
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  border: 2px solid #999999;
+  border-radius: 22px;
+  margin-right: 10px;
+  background: #2d333b;
+  font-size: 18px;
+  padding: 10px;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: "Rubik Doodle Shadow";
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+button:hover {
+  border: 2px solid #fff;
+  background-color: #2d333b;
+}
+
+.perfil {
+  display: flex;
+  margin: 40px 0;
+}
+
+.profile {
+  border-radius: 60px;
+  width: 120px;
+  height: 120px;
+  border: 2px solid #e5e5e5;
+  margin-right: 30px;
+}
+
+.perfil h3 {
+  color: #fff;
+  font-size: 24px;
+  margin: 0;
+  font-family: "Rubik Doodle Shadow";
+}
+
+.perfil p {
+  color: #fff;
+  font-size: 16px;
+  margin: 20px 0 0 0;
+}
+
+.perfil span {
+  display: block;
+  color: #fff;
+  font-size: 14px;
+  margin: 0;
+  transition: 0.5s;
+}
+
+.perfil span:hover {
+  color: #e5e5e5;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.null-page {
+  margin-top: 30px;
+  display: grid;
+  place-items: center;
+  font-family: "Rubik Doodle Shadow";
+}
